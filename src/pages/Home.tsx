@@ -10,7 +10,8 @@ const FILTER_STORAGE_KEY = 'selectedDomainFilter';
 
 const availablePacks = [
     { id: 'breaking-the-spire', name: 'Breaking the Spire' },
-    { id: 'cyberheart', name: 'Cyberheart' }
+    { id: 'cyberheart', name: 'CyberHeart' },
+    { id: 'face-the-music', name: 'Face the Music' }
 ];
 interface HomeProps {
     cards: Card[];
