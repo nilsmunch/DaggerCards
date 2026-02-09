@@ -17,8 +17,12 @@ const Sidebar: React.FC<SidebarProps> = ({ domains, selected, onSelect, onReset 
             onClick={onReset} disabled={!selected}>Introduction</button>
         {Object.entries(domains)
             .sort(([a], [b]) => {
+                if (a === 'All') return -1;
+                if (b === 'All') return 1;
                 if (a === 'Classes') return -1;
                 if (b === 'Classes') return 1;
+                if (a === 'Community') return -1;
+                if (b === 'Community') return 1;
                 return a.localeCompare(b);
             })
             .map(([domain, count]) => (
