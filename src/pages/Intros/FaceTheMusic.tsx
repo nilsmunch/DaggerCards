@@ -162,105 +162,117 @@ const FaceTheMusic = () => (
             </thead>
             <tbody>
             <tr>
-                <td style={{ border: "1px solid #555", padding: "8px", whiteSpace:"nowrap" }}>🧪 Arcana</td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px", whiteSpace: "nowrap"}}>🧪 Arcana</td>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     The hidden workings of musical technology.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Amplification, signal flow, feedback loops, gear manipulation, weaponized sound systems.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Synthesizers, mixers, amps, pedals, modular rigs.
                 </td>
             </tr>
 
             <tr>
-                <td style={{ border: "1px solid #555", padding: "8px", whiteSpace:"nowrap" }}>🦴 Bone</td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px", whiteSpace: "nowrap"}}>🗡️ Blade</td>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
+                    The magical properties of instruments.
+                </td>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
+                    Tuning, playing and taking care of your instruments, and it will take care of you.
+                </td>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
+                    Guitar, Any.
+                </td>
+            </tr>
+            <tr>
+                <td style={{border: "1px solid #555", padding: "8px", whiteSpace: "nowrap"}}>🦴 Bone</td>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Physical endurance and raw survival.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Pit fighting, crowd navigation, late-night resilience, touring hardship, bodily limits.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Drums, bass guitar, heavy percussion, body-based rhythm.
                 </td>
             </tr>
 
             <tr>
-                <td style={{ border: "1px solid #555", padding: "8px", whiteSpace:"nowrap" }}>📖 Codex</td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px", whiteSpace: "nowrap"}}>📖 Codex</td>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     The power of language and meaning.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Lyrics, disses, chants, spoken word, cultural references, weaponized truth.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Microphones, lyric sheets, vocoders, megaphones.
                 </td>
             </tr>
 
             <tr>
-                <td style={{ border: "1px solid #555", padding: "8px", whiteSpace:"nowrap" }}>🎭 Grace</td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px", whiteSpace: "nowrap"}}>🎭 Grace</td>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Attraction, devotion, and emotional pull.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Fandom bonds, romantic tension, parasocial power, charisma under spotlight.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Vocals, acoustic guitar, violin, piano.
                 </td>
             </tr>
 
             <tr>
-                <td style={{ border: "1px solid #555", padding: "8px", whiteSpace:"nowrap" }}>🌒 Midnight</td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px", whiteSpace: "nowrap"}}>🌒 Midnight</td>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Occult roots of modern music.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Ritual sound, liminal frequencies, curses, sigils hidden in songs, witchcraft.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Theremin, analog synths, chanting voices, bowed metal.
                 </td>
             </tr>
 
             <tr>
-                <td style={{ border: "1px solid #555", padding: "8px", whiteSpace:"nowrap" }}>🌿 Sage</td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px", whiteSpace: "nowrap"}}>🌿 Sage</td>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Mastery of the stage itself.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Lighting cues, pyrotechnics, screens, timing, spectacle as control.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Lighting boards, MIDI controllers, launch pads.
                 </td>
             </tr>
 
             <tr>
-                <td style={{ border: "1px solid #555", padding: "8px", whiteSpace:"nowrap" }}>✨ Splendor</td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px", whiteSpace: "nowrap"}}>✨ Splendor</td>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Shared emotion and unity through music.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Choruses, sing-alongs, crowd synchronization, collective power.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Choir vocals, rhythm sections, clapping, call-and-response tools.
                 </td>
             </tr>
 
             <tr>
-                <td style={{ border: "1px solid #555", padding: "8px", whiteSpace:"nowrap" }}>🛡 Valor</td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px", whiteSpace: "nowrap"}}>🛡 Valor</td>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Protection, responsibility, and care.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Crowd safety, barriers, calm under panic, defensive coordination.
                 </td>
-                <td style={{ border: "1px solid #555", padding: "8px" }}>
+                <td style={{border: "1px solid #555", padding: "8px"}}>
                     Whistles, horns, steady drums, grounding basslines.
                 </td>
             </tr>

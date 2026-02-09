@@ -36,7 +36,7 @@ const CardPage: React.FC<CardPageProps> = ({ cards }) => {
                 <img
                     src={card.full}
                     alt={card.title}
-                    style={{ maxWidth: '100%', minWidth: "60vw", height: 'auto', borderRadius: '8px' }}
+                    style={{ maxWidth: '360px', minWidth: "30vw", height: 'auto', borderRadius: '8px' }}
                 />
             </div>
         </div>
