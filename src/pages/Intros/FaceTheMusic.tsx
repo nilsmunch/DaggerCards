@@ -64,6 +64,7 @@ const FaceTheMusic = () => (
         </p>
 
         <ul style={{ textAlign: "left", display: "inline-block" }}>
+            <li>If you want to <strong>multiclass</strong>, the additional class will cost <strong>4 points</strong>.</li>
             <li>Cards from your <strong>class Domain</strong> cost <strong>2 points</strong>.</li>
             <li>Cards from <strong>other Domains</strong> cost <strong>3 points</strong>.</li>
             <li>You may not spend all points on a single Domain.</li>
@@ -85,7 +86,7 @@ const FaceTheMusic = () => (
 
         <p>
             Musicians who awaken their Sight pierce the Shroud instinctively. Loud emotion, authentic expression,
-            and live performance weaken its hold — one reason demons target artists before they ever reach
+            and live performance weaken its hold, one reason demons target artists before they ever reach
             mass audiences.
         </p>
 
@@ -127,12 +128,12 @@ const FaceTheMusic = () => (
                 about what truly happened to the divine host.
             </li>
             <li>
-                <strong>Gami</strong>— Extremely intelligent, magically adept demons.
+                <strong>Gami</strong><br/> Extremely intelligent, magically adept demons.
                 Patient manipulators who influence scenes, movements, and entire cultures.
                 A Gami prefers to win without ever being seen.
             </li>
             <li>
-                <strong>Maestros</strong>— Apex demons who conduct others like an
+                <strong>Maestros</strong><br/> Apex demons who conduct others like an
                 orchestra. They engineer trends, scandals, and wars between factions,
                 shaping the soundtrack of an era to serve Hell’s long game.
             </li>
