@@ -59,6 +59,10 @@ const Home: React.FC<HomeProps> = ({ cards, setCards }) => {
             };
         });
 
+        sessionStorage.setItem(
+            `cards_${packId}`,
+            JSON.stringify(cardsFromImages)
+        );
         setCards(cardsFromImages);
         setSelectedDomain(null);
     }, [packId, setCards]);
@@ -131,6 +135,9 @@ const Home: React.FC<HomeProps> = ({ cards, setCards }) => {
                     </>
                 )}
             </main>
+            <Link to={`/pack/${packId}/reveal`}>
+                Draw 3 random
+            </Link>
         </div>
     );
 };
